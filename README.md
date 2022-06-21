@@ -7,7 +7,7 @@ I'm Pushpam, a self-motivated tech enthusiast and Software Engineer.
 </p>
 
 <h4 align="center">
-💻 SWE <a href="https://github.com/tr">@tr</a> | 🌱 building <a href="https://kumarpushpam.com/api/v1/index.html">Profanity Filter</a> | 💬 connect <a href="https://www.linkedin.com/in/Pushpam-Kumar/">pushpam-kumar</a>
+💻 SWE <a href="https://github.com/tr">@tr</a> | 🌱 building <a href="https://kumarpushpam.com/api/v1/index.html">Profanity Filter</a> | 💬 connect <a href="https://www.linkedin.com/in/Pushpam-Kumar/">Pushpam-Kumar</a>
 </h4>
 <p  align="center">
 <a href="https://kumarpushpam.com/index.html/">https://kumarpushpam.com</a>
@@ -29,7 +29,7 @@ I'm Pushpam, a self-motivated tech enthusiast and Software Engineer.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pushpamk&count_private=true&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpamk&hide=javascript,html,dart,ruby&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pushpamk&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpamk&hide=javascript,html,dart,ruby&layout=compact)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pushpamk)
 <!--
 **Pushpamk/PushpamK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
