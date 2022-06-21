@@ -2,10 +2,6 @@
 <img max-width="800" src="https://raw.githubusercontent.com/PushpamK/Pushpamk/main/assets/banner.png"/>
 </div>
 
-<p align="center">
-I'm Pushpam, a self-motivated tech enthusiast and Software Engineer.
-</p>
-
 <h4 align="center">
 💻 SWE <a href="https://github.com/tr">@tr</a> | 🌱 building <a href="https://kumarpushpam.com/api/v1/index.html">Profanity Filter</a> | 💬 connect <a href="https://www.linkedin.com/in/Pushpam-Kumar/">Pushpam-Kumar</a>
 </h4>
