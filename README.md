@@ -27,10 +27,10 @@ I'm Pushpam, a self-motivated tech enthusiast and Software Engineer.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pushpamk&count_private=true&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpamk&hide=javascript,html,dart,ruby&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pushpamk)
 <!--
 **Pushpamk/PushpamK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
