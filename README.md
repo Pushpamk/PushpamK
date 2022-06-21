@@ -17,7 +17,7 @@ I'm Pushpam, a self-motivated tech enthusiast and Software Engineer.
 <h3 align="center">
 My Tech Stacks
 </h3>
-![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/java--007396?style=flat-square&logo=java)
 <!--
 **Pushpamk/PushpamK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
